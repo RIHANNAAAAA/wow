@@ -8,7 +8,7 @@
 </head>
 <body>
 
-처음 작성하는 jsp문서 쨔란 **
+처음 작성하는 jsp문서 쨔란 *
 
 </body>
 </html>
